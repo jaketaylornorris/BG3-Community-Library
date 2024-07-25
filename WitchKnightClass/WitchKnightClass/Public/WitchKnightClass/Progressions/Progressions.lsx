@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="330"/>
+    <region id="Progressions">
+        <node id="root">
+          <children>
+            <node id="Progression"> 
+              <attribute id="AllowImprovement" type="bool" value="false"/> 
+              <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(Greatswords);Proficiency(HeavyArmor);Proficiency(MediumArmor);Proficiency(LightArmor)"/> 
+              <attribute id="IsMulticlass" type="bool" value="true"/>
+              <attribute id="Level" type="uint8" value="1"/> 
+              <attribute id="Name" type="LSString" value="CL_WitchKnight"/>
+              <attribute id="ProgressionType" type="uint8" value="0"/> 
+              <attribute id="Selectors" type="LSString" value="SelectSkills(6a4f8598-3a17-42d1-beac-d7ced582bafa,2);AddSpells(f8799582-ef4c-49b7-88eb-2120aecab569);SelectPassives(da3203d8-750a-4de1-b8eb-1eccfccddf46,1,FightingStyle);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
+              <attribute id="TableUUID" type="guid" value="29b323b1-d1fa-4882-a8f3-d4cb0ad6c158"/> 
+              <attribute id="UUID" type="guid" value="69b412b2-6b5c-42aa-ae89-a3b48b6f1780"/> 
+            </node>
+          </children>
+        </node>
+    </region>
+</save>
